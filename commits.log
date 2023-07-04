@@ -1,0 +1,104 @@
+commit 9c42152c66072f76aa5ee40b33870702882c433b
+Author: Juan Mejia <112711693+BastianM18@users.noreply.github.com>
+Date:   Thu Jun 29 10:25:20 2023 -0500
+
+    Agregando dos párrafos
+
+commit 5fa0bb54de87ab9b80725cfdd9d83ee6a1bd0d0c
+Merge: 2a1fd77 c6fec49
+Author: Juan Mejia <112711693+BastianM18@users.noreply.github.com>
+Date:   Thu Jun 29 09:57:34 2023 -0500
+
+    Resolviendo conflicto en estaciones del año y fehcas de inicio
+
+commit 2a1fd77f26c7d81c6ff6b063a77b6b875574d4df
+Author: Juan Mejia <112711693+BastianM18@users.noreply.github.com>
+Date:   Thu Jun 29 09:41:02 2023 -0500
+
+    Agregando estaciones del año con fechas de inicio
+
+commit c6fec496d4ee1cd6bfb4a69c573a197abc5b41fe
+Author: Juan Mejia <112711693+BastianM18@users.noreply.github.com>
+Date:   Thu Jun 29 09:41:02 2023 -0500
+
+    agregando estaciones del año
+
+commit f13b8f1e8aee748be6b0b3e009b24ad12b672ada
+Merge: 75bf5dd 101ab68
+Author: Juan Mejia <112711693+BastianM18@users.noreply.github.com>
+Date:   Thu Jun 29 09:03:04 2023 -0500
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit 101ab681e7e7c92b5c60dff06b8a5a47124b6ad8
+Author: Juan Mejia <112711693+BastianM18@users.noreply.github.com>
+Date:   Thu Jun 29 08:56:58 2023 -0500
+
+    agregando index.js al index.html
+
+commit 75bf5dd79f276a6caf62f375f8bea0ab9d23a9dd
+Author: Juan Mejia <112711693+BastianM18@users.noreply.github.com>
+Date:   Thu Jun 29 08:54:59 2023 -0500
+
+    agregando style.css al index.html
+
+commit 1b80ed6fc696d30d41071d551e2af00665cb07fe
+Merge: 411bafd b03d62d
+Author: Juan Mejia <112711693+BastianM18@users.noreply.github.com>
+Date:   Thu Jun 29 08:41:31 2023 -0500
+
+    Merge branch 'js'
+
+commit b03d62dd0e1208141e1af36ec698d045b3485bbd
+Author: Juan Mejia <112711693+BastianM18@users.noreply.github.com>
+Date:   Thu Jun 29 08:35:40 2023 -0500
+
+    creando index.js
+
+commit 411bafd5cde38d931fd718e7c9e1f3b143c1d502
+Author: Juan Mejia <112711693+BastianM18@users.noreply.github.com>
+Date:   Thu Jun 29 08:25:55 2023 -0500
+
+    creando style.css
+
+commit 63b6f61da9e79296c86ce057bfaece3df03fa012
+Author: Juan Mejia <112711693+BastianM18@users.noreply.github.com>
+Date:   Thu Jun 29 08:20:50 2023 -0500
+
+    creando index.html
+
+commit 6c2691267f15953751af0dc72ad4094337e3e001
+Author: Juan Mejia <112711693+BastianM18@users.noreply.github.com>
+Date:   Thu Jun 29 07:50:42 2023 -0500
+
+    ignorando archivos .exe
+
+commit 9b3b002e0b3a6b4dbac8c416d8853e6ef510facc
+Author: Juan Sebastián Mejia <112711693+BastianM18@users.noreply.github.com>
+Date:   Wed Jun 28 08:13:48 2023 -0500
+
+    Corrigiendo Rename a Rename.txt
+
+commit 27c4e7cfcfd165c3945098b132346e069ddf00e3
+Author: Juan Sebastián Mejia <112711693+BastianM18@users.noreply.github.com>
+Date:   Wed Jun 28 08:10:12 2023 -0500
+
+    Creando licencia del repositorio
+
+commit 8d8998dcfccc750df6d91e03f57b2262a0725152
+Author: Juan Mejia <112711693+BastianM18@users.noreply.github.com>
+Date:   Tue Jun 27 11:56:29 2023 -0500
+
+    Agregando más conteido al README
+
+commit f92bb17c2a58b62a962d74ed3d56035474dc1c49
+Author: Juan Mejia <112711693+BastianM18@users.noreply.github.com>
+Date:   Tue Jun 27 11:22:09 2023 -0500
+
+    Agregar contenido inicial al README
+
+commit 0043e6bece4bb39c062cfe62610131bba0fb19ec
+Author: Juan Mejia <112711693+BastianM18@users.noreply.github.com>
+Date:   Tue Jun 27 11:17:06 2023 -0500
+
+    Primer commit hecho
